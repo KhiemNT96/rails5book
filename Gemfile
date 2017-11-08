@@ -62,3 +62,6 @@ gem  'will_paginate'            #
 gem  'bootstrap-will_paginate'    #called will_paginate #Phan trang
 gem 'faye'
 gem 'thin'
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog'
