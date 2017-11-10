@@ -73,6 +73,10 @@ p {
   color: #fff;
   text-decoration: none;
 }
+header ul li {
+  float: left;
+  margin-left: 15px;
+}
 /* footer */
 
 footer {
@@ -294,7 +298,7 @@ input {
     padding: 10px 0;
     border-bottom: 1px solid bg-gray-lighter;
   }
-  }
+}
 
 /* microposts */
 
